@@ -2,6 +2,10 @@
 
 > **Topic:** `concept` (Enterprise-Semantics per-concept repository, ES-ADR-049 + CR-ES-049)
 
+# Agent
+
+> **Topic:** `concept` (Enterprise-Semantics per-concept repository, ES-ADR-049 + CR-ES-049)
+
 # concept-agent
 
 > Agent, Authoritative concept repository, self-contained per ES-ADR-049 + CR-ES-049.
